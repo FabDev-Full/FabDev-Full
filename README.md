@@ -53,7 +53,7 @@ Plataforma SaaS integral de bienestar animal con **Notificaciones Push en tiempo
 ## 📬 ¡Hablemos / Contáctame!
 
 - 🌐 **Proyecto Oficial:** [www.petguardian.cl](https://www.petguardian.cl)
-- ✉️ **Correo:** `tu_correo@ejemplo.com` *(reemplaza con tu correo)*
+- ✉️ **Correo:** `fa.aguila.dev@gmail.com`
 - 📍 **Ubicación:** Chile 🇨🇱
 
 ---
