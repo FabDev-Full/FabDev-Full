@@ -59,3 +59,9 @@ Plataforma SaaS integral de bienestar animal con **Notificaciones Push en tiempo
 
 ---
 
+## 📈 Gráfico de Actividad Animado
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FabDev-Full&theme=react-dark&hide_border=true&area=true" width="100%" />
+</p>
+
