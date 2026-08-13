@@ -41,12 +41,13 @@ Plataforma SaaS integral de bienestar animal con **Notificaciones Push en tiempo
 
 ---
 
-## 📊 Estadísticas de GitHub
+## 📊 Estadísticas & Actividad
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FabDev-Full&show_icons=true&theme=tokyonight&count_private=true" alt="Fabián's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabDev-Full&layout=compact&theme=tokyonight&hide=html" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=FabDev-Full&show_icons=true&theme=dark&count_private=true&include_all_commits=true" alt="Estadísticas de Fabián" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FabDev-Full&theme=dark" alt="Racha de Commits" width="49%" />
 </p>
+
 
 ---
 
