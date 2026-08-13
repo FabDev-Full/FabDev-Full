@@ -4,8 +4,6 @@
   </a>
 </p>
 
-# Hi there, I'm Fabián Águila! 👋 👨‍💻
-
 ### 🚀 Full Stack Software Engineer | Tech Architect
 
 Ingeniero en Informática apasionado por diseñar y construir aplicaciones web y móviles modernas, intuitivas, seguras y de alto rendimiento. Especializado en arquitecturas desacopladas con **.NET 8 Web API**, **Next.js**, **PostgreSQL** y soluciones Cloud.
