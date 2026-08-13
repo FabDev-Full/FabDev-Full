@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vcenter=true&width=500&lines=Hola!+Soy+Fabi%C3%A1n+%C3%81guila;Full+Stack+Software+Engineer;Apasionado+por+.NET+8+%2B+Next.js;Creador+de+PetGuardian.cl" alt="Typing SVG" />
+  </a>
+</p>
+
 # Hi there, I'm Fabián Águila! 👋 👨‍💻
 
 ### 🚀 Full Stack Software Engineer | Tech Architect
